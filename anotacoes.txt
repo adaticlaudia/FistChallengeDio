@@ -1,0 +1,15 @@
+O Git é uma plataforma distribuída e open source de versionamento de código. Ela foi criada por Linus Torvalds, criador do Linux, para solucionar o problema com o
+versionamento dos seus códigos (quando alguma alteração era realizada). 
+O Git possui um algoritmo de incriptação, o sha1, que gera código de 40 dígitos como identificador único para cada versão do código. 
+
+O Github é um repositório online e que usa ferramentas da Microsoft.
+
+O uso do Git e do Github permitem:
+1 - O controle de versão
+2- Armazenamento em nuvem 
+3- Trabalho colaborativo
+4 - Melhoramento do código, pois pessoas de todo o mundo podem editá-lo
+5 - Reconhecimento
+
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
